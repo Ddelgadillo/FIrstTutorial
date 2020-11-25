@@ -2276,3 +2276,74 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.25-01.31.40:481][ 20]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
 [2020.11.25-01.31.40:481][ 20]LogWindows: Warning: URL: D:/GameProjects/UE4/FirstProject/git.exe version
 [2020.11.25-01.31.40:481][ 20]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2020.11.25-02.35.33:286][282]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2020.11.25-02.35.33:286][282]LogWindows: Warning: URL: D:/GameProjects/UE4/FirstProject/ version
+[2020.11.25-02.35.33:357][289]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2020.11.25-02.35.33:357][289]LogWindows: Warning: URL: D:/GameProjects/UE4/FirstProject/ version
+[2020.11.25-02.35.33:357][289]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2020.11.25-02.39.04:307][517]LogSlate: Window 'Source Control Login' being destroyed
+[2020.11.25-02.39.17:438][674]SourceControl: Source control is disabled
+[2020.11.25-02.39.17:438][674]LogSlate: Window 'Source Control Login' being destroyed
+[2020.11.25-02.39.25:755][373]LogSlate: Window 'Source Control Login' being destroyed
+[2020.11.25-02.39.31:213][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Maps/FirstLevel" FILE="../../../../../GameProjects/UE4/FirstProject/Content/MyStuff/Maps/FirstLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.25-02.39.31:224][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.11.25-02.39.31:247][849]LogSavePackage: Moving '../../../../../GameProjects/UE4/FirstProject/Saved/FirstLevelF33D133341013AA57D85F987D742B105.tmp' to '../../../../../GameProjects/UE4/FirstProject/Content/MyStuff/Maps/FirstLevel.umap'
+[2020.11.25-02.39.31:284][849]LogFileHelpers: Saving map 'FirstLevel' took 0.071
+[2020.11.25-02.39.31:284][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Maps/FirstLevel_BuiltData" FILE="../../../../../GameProjects/UE4/FirstProject/Content/MyStuff/Maps/FirstLevel_BuiltData.uasset" SILENT=true
+[2020.11.25-02.39.31:321][849]LogSavePackage: Moving '../../../../../GameProjects/UE4/FirstProject/Saved/FirstLevel_BuiltDataAA0F622B4E162D09A3454FB4EEC20576.tmp' to '../../../../../GameProjects/UE4/FirstProject/Content/MyStuff/Maps/FirstLevel_BuiltData.uasset'
+[2020.11.25-02.39.31:329][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Maps/FirstLevel_BuiltData" FILE="../../../../../GameProjects/UE4/FirstProject/Content/MyStuff/Maps/FirstLevel_BuiltData.uasset" SILENT=true
+[2020.11.25-02.39.31:344][849]LogSavePackage: Moving '../../../../../GameProjects/UE4/FirstProject/Saved/FirstLevel_BuiltDataADEBD7884EE2F1FF461088B5F5367E67.tmp' to '../../../../../GameProjects/UE4/FirstProject/Content/MyStuff/Maps/FirstLevel_BuiltData.uasset'
+[2020.11.25-02.39.31:345][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Textures/SpanishPavement_normal" FILE="../../../../../GameProjects/UE4/FirstProject/Content/MyStuff/Textures/SpanishPavement_normal.uasset" SILENT=true
+[2020.11.25-02.39.31:437][849]LogSavePackage: Moving '../../../../../GameProjects/UE4/FirstProject/Saved/SpanishPavement_normalA139667D49E7E41FD54DD787583F9F45.tmp' to '../../../../../GameProjects/UE4/FirstProject/Content/MyStuff/Textures/SpanishPavement_normal.uasset'
+[2020.11.25-02.39.31:766][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Textures/SpanishPavement_basecolor" FILE="../../../../../GameProjects/UE4/FirstProject/Content/MyStuff/Textures/SpanishPavement_basecolor.uasset" SILENT=true
+[2020.11.25-02.39.31:858][849]LogSavePackage: Moving '../../../../../GameProjects/UE4/FirstProject/Saved/SpanishPavement_basecolorFA74D1A945C8EAE6F9AFD681F73015E1.tmp' to '../../../../../GameProjects/UE4/FirstProject/Content/MyStuff/Textures/SpanishPavement_basecolor.uasset'
+[2020.11.25-02.39.32:147][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Materials/M_SpanishPavement_Inst" FILE="../../../../../GameProjects/UE4/FirstProject/Content/MyStuff/Materials/M_SpanishPavement_Inst.uasset" SILENT=true
+[2020.11.25-02.39.32:166][849]LogSavePackage: Moving '../../../../../GameProjects/UE4/FirstProject/Saved/M_SpanishPavement_Inst9DA8884A4C28F746A19A5BB4A97D5FC0.tmp' to '../../../../../GameProjects/UE4/FirstProject/Content/MyStuff/Materials/M_SpanishPavement_Inst.uasset'
+[2020.11.25-02.39.32:184][849]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.25-02.39.32:184][849]LogContentValidation: Display: Validating World /Game/MyStuff/Maps/FirstLevel.FirstLevel
+[2020.11.25-02.39.32:184][849]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MyStuff/Maps/FirstLevel_BuiltData.FirstLevel_BuiltData
+[2020.11.25-02.39.32:184][849]LogContentValidation: Display: Validating Texture2D /Game/MyStuff/Textures/SpanishPavement_normal.SpanishPavement_normal
+[2020.11.25-02.39.32:184][849]LogContentValidation: Display: Validating Texture2D /Game/MyStuff/Textures/SpanishPavement_basecolor.SpanishPavement_basecolor
+[2020.11.25-02.39.32:184][849]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/MyStuff/Materials/M_SpanishPavement_Inst.M_SpanishPavement_Inst
+[2020.11.25-02.39.34:931][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Maps/FirstLevel" FILE="../../../../../GameProjects/UE4/FirstProject/Content/MyStuff/Maps/FirstLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.25-02.39.34:943][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.11.25-02.39.34:959][ 91]LogSavePackage: Moving '../../../../../GameProjects/UE4/FirstProject/Saved/FirstLevel195C9C624A2E7C70BE192985F8BE9805.tmp' to '../../../../../GameProjects/UE4/FirstProject/Content/MyStuff/Maps/FirstLevel.umap'
+[2020.11.25-02.39.35:063][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Maps/FirstLevel_BuiltData" FILE="../../../../../GameProjects/UE4/FirstProject/Content/MyStuff/Maps/FirstLevel_BuiltData.uasset" SILENT=true
+[2020.11.25-02.39.35:075][ 91]LogSavePackage: Moving '../../../../../GameProjects/UE4/FirstProject/Saved/FirstLevel_BuiltData1C6EBB6045D649A222E43D90F8124545.tmp' to '../../../../../GameProjects/UE4/FirstProject/Content/MyStuff/Maps/FirstLevel_BuiltData.uasset'
+[2020.11.25-02.39.35:083][ 91]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.25-02.39.35:083][ 91]LogContentValidation: Display: Validating World /Game/MyStuff/Maps/FirstLevel.FirstLevel
+[2020.11.25-02.39.35:083][ 91]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MyStuff/Maps/FirstLevel_BuiltData.FirstLevel_BuiltData
+[2020.11.25-02.39.40:081][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Maps/FirstLevel" FILE="../../../../../GameProjects/UE4/FirstProject/Content/MyStuff/Maps/FirstLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.25-02.39.40:091][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.25-02.39.40:107][515]LogSavePackage: Moving '../../../../../GameProjects/UE4/FirstProject/Saved/FirstLevel3FC3DEA747B17538A85CA3B7FA436C9B.tmp' to '../../../../../GameProjects/UE4/FirstProject/Content/MyStuff/Maps/FirstLevel.umap'
+[2020.11.25-02.39.40:209][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Maps/FirstLevel_BuiltData" FILE="../../../../../GameProjects/UE4/FirstProject/Content/MyStuff/Maps/FirstLevel_BuiltData.uasset" SILENT=true
+[2020.11.25-02.39.40:222][515]LogSavePackage: Moving '../../../../../GameProjects/UE4/FirstProject/Saved/FirstLevel_BuiltData2A037DAE4822F714F69338A44113B841.tmp' to '../../../../../GameProjects/UE4/FirstProject/Content/MyStuff/Maps/FirstLevel_BuiltData.uasset'
+[2020.11.25-02.39.40:229][515]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.25-02.39.40:230][515]LogContentValidation: Display: Validating World /Game/MyStuff/Maps/FirstLevel.FirstLevel
+[2020.11.25-02.39.40:230][515]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MyStuff/Maps/FirstLevel_BuiltData.FirstLevel_BuiltData
+[2020.11.25-02.39.44:838][908]SourceControl: fatal: D:/Unreal Engine 4/UE_4.25/Engine/Content: 'D:/Unreal Engine 4/UE_4.25/Engine/Content' is outside repository at 'D:/GameProjects/UE4/FirstProject'
+[2020.11.25-02.39.44:838][908]SourceControl: fatal: D:/Unreal Engine 4/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'D:/Unreal Engine 4/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/GameProjects/UE4/FirstProject'
+[2020.11.25-02.39.44:838][908]SourceControl: fatal: D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/GameProjects/UE4/FirstProject'
+[2020.11.25-02.39.44:838][908]SourceControl: fatal: D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/GameProjects/UE4/FirstProject'
+[2020.11.25-02.39.44:838][908]SourceControl: fatal: D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/GameProjects/UE4/FirstProject'
+[2020.11.25-02.39.44:838][908]SourceControl: fatal: D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/GameProjects/UE4/FirstProject'
+[2020.11.25-02.39.44:838][908]SourceControl: fatal: D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/GameProjects/UE4/FirstProject'
+[2020.11.25-02.39.44:838][908]SourceControl: fatal: D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/GameProjects/UE4/FirstProject'
+[2020.11.25-02.39.44:838][908]SourceControl: fatal: D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/GameProjects/UE4/FirstProject'
+[2020.11.25-02.39.44:838][908]SourceControl: fatal: D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/GameProjects/UE4/FirstProject'
+[2020.11.25-02.39.44:838][908]SourceControl: fatal: D:/Unreal Engine 4/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'D:/Unreal Engine 4/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/GameProjects/UE4/FirstProject'
+[2020.11.25-02.39.44:838][908]SourceControl: fatal: D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/GameProjects/UE4/FirstProject'
+[2020.11.25-02.39.44:838][908]SourceControl: fatal: D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/GameProjects/UE4/FirstProject'
+[2020.11.25-02.39.44:838][908]SourceControl: fatal: D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/GameProjects/UE4/FirstProject'
+[2020.11.25-02.39.44:838][908]SourceControl: fatal: D:/Unreal Engine 4/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'D:/Unreal Engine 4/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'D:/GameProjects/UE4/FirstProject'
+[2020.11.25-02.39.44:838][908]SourceControl: fatal: D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/GameProjects/UE4/FirstProject'
+[2020.11.25-02.39.44:838][908]SourceControl: fatal: D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/GameProjects/UE4/FirstProject'
+[2020.11.25-02.39.44:838][908]SourceControl: fatal: D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Unreal Engine 4/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/GameProjects/UE4/FirstProject'
+[2020.11.25-02.40.02:592][908]LogSlate: Window 'Submit Files' being destroyed
+[2020.11.25-02.40.03:644][908]LogSourceControl: commit successful: [master fb4bd4c] Latest commit
+[2020.11.25-02.40.03:808][908]SourceControl: [master fb4bd4c] Latest commit
+[2020.11.25-02.40.03:808][908]SourceControl:  5 files changed, 0 insertions(+), 0 deletions(-)
+[2020.11.25-02.40.03:808][908]SourceControl:  rewrite Content/MyStuff/Materials/M_SpanishPavement_Inst.uasset (96%)
+[2020.11.25-02.40.03:808][908]SourceControl:  create mode 100644 Content/MyStuff/Textures/SpanishPavement_basecolor.uasset
+[2020.11.25-02.40.03:808][908]SourceControl:  create mode 100644 Content/MyStuff/Textures/SpanishPavement_normal.uasset
+[2020.11.25-02.40.03:814][908]SourceControl: Commited [master fb4bd4c] Latest commit.
